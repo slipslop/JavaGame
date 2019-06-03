@@ -11,7 +11,7 @@ Functionalities:
 
   - Notch's game loop (creator of Minecraft) ticks every game obect 60 times/s
   - Player following camera
-  - 
+  - 2 levels
   
   
   
@@ -32,4 +32,6 @@ New ideas learned from this project
   
   
   Things to improve
+    - Better sprite animation.
+    - Put classes to packages.
     - 
