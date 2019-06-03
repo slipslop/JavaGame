@@ -31,7 +31,7 @@ New ideas learned from this project
   
   
   
-  Things to improve
-    - Better sprite animation.
-    - Put classes to packages.
+Things to improve
+  - Better sprite animation.
+  - Put classes to packages.
     
