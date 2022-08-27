@@ -458,10 +458,6 @@ public class Game extends Canvas implements Runnable {
 		setState(1);
 	}
 
-	private void setMenuState() {
-
-	}
-
 	public static void main(String[] args) {
 
 		// constructor call
